@@ -851,6 +851,13 @@
         "layer0.opacity": 1.0
     },
     {
+        "class": "popup_control",
+        "content_margin": [0, 0],
+        "settings": ["el_capitan_hide_popup_border"],
+        "layer0.tint": [255, 255, 255],
+        "layer0.opacity": 1.0
+    },
+    {
         "class": "auto_complete",
         "row_padding": [1, 2]
     },
